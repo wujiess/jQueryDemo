@@ -1,0 +1,1 @@
+{"version":3,"sources":["jQuery.js"],"names":["window","$","jQuery","selector"],"mappings":"AAAAA,MAAM,CAACC,CAAP,GAAWD,MAAM,CAACE,MAAP,GAAgB,UAASC,QAAT,EAAmB,CAE7C,CAFD","file":"jQuery.5c69adcb.js","sourceRoot":"..\\src","sourcesContent":["window.$ = window.jQuery = function(selector) {\r\n\r\n}"]}
